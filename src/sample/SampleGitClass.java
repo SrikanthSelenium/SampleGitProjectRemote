@@ -1,8 +1,11 @@
 package sample;
 
+import org.testng.annotations.Test;
+
 public class SampleGitClass {
-	
-	public static void main(String[] args) {
+
+	@Test
+	public void main() {
 		
 		String[] str = new String[4];
 		str[0] = "sri";
