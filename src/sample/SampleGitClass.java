@@ -9,12 +9,12 @@ public class SampleGitClass {
 		str[1] = "kanth";
 		str[2] = "chin";
 		str[3] = "choli";
-		String name = "";
+		String myname = "";
 		for(int j=0;j<=str.length-1;j++)
 		{
-			name=name+str[j];
+			myname=myname+str[j];
 		}
-		System.out.println(name);
+		System.out.println(myname);
 		String append="";
 		for(int i=str.length-1;i>=0;i--)
 		{
