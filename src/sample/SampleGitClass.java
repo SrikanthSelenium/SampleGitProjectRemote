@@ -32,7 +32,9 @@ public class SampleGitClass {
 			res=res+t[i];
 		}
 		System.out.println(res);
+
 		System.out.println(res);//updated in b1
+
 	}
 
 }
