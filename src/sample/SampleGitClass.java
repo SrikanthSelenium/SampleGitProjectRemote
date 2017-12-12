@@ -34,6 +34,7 @@ public class SampleGitClass {
 		System.out.println(res);
 
 		System.out.println(res);//updated in b1
+		//added line in b1 remote branch
 
 	}
 
